@@ -4,7 +4,9 @@ My name is Anwar, passionate frontend web developer, i really like things relate
 especially the appearance of a website, i will share all my code on social media platforms.
 
 ###  Connect with me:
-[![Instagram](./asset/Instagram-Logo.wine.svg)](https://www.instagram.com/juliocodes) [![YouTube](./assets/youtube.svg)](https://www.youtube.com/@juliocodes)
+<a href="https://instagram.com/anwar_r_r" target="blank">
+  <img align="center" src="./asset/Instagram-Logo.wine.svg" alt="anwar_r_r" height="30" width="40" />
+</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
