@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi everyone 👋
 
 My name is Anwar, passionate frontend web developer, i really like things related to beauty, 
 especially the appearance of a website, i will share all my code on social media platforms.
@@ -6,6 +6,9 @@ especially the appearance of a website, i will share all my code on social media
 ###  Connect with me:
 <a href="https://instagram.com/anwar_r_r" target="blank">
   <img align="center" src="./asset/Instagram-Logo.wine.svg" alt="anwar_r_r" height="80" width="80" />
+</a>
+<a href="https://www.youtube.com/channel/UCS0MEcAP6OeuuU6Me3y7Zfg" target="blank">
+  <img align="center" src="./asset/YouTube-Icon-Full-Color-Logo.wine.svg" alt="anwar_r_r" height="80" width="80" />
 </a>
 
 
