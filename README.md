@@ -3,7 +3,7 @@
 My name is Anwar, passionate frontend web developer, i really like things related to beauty, 
 especially the appearance of a website, i will share all my code on social media platforms.
 
-###  Connect with me:
+### 🔗 Connect with me:
 <a href="https://instagram.com/anwar_r_r" target="blank">
   <img align="center" src="./asset/Instagram-Logo.wine.svg" alt="anwar_r_r" height="40" width="40" />
 </a>
@@ -14,7 +14,7 @@ especially the appearance of a website, i will share all my code on social media
   <img align="center" src="./asset/tiktok-logo-4500.svg" alt="anwar_r_r" height="30" width="40" />
 </a>
 
-### Languages and Tools:
+### 💻 Languages and Tools:
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 </a> 
