@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Anwar, passionate frontend web developer, i really like things related to beauty, 
-especially the appearance of a website, i will share all my code on social media platforms
+especially the appearance of a website, i will share all my code on social media platforms.
 
 
 <h3 align="left">Languages and Tools:</h3>
