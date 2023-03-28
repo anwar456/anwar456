@@ -24,7 +24,7 @@ especially the appearance of a website, i will share all my code on social media
 </a> 
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> 
 </a> 
 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
