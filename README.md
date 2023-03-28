@@ -3,8 +3,8 @@
 My name is Anwar, passionate frontend web developer, i really like things related to beauty, 
 especially the appearance of a website, i will share all my code on social media platforms.
 
-#### Connect with me:
-[![Instagram](./assets/Instagram-Logo.wine.svg)](https://www.instagram.com/juliocodes) [![YouTube](./assets/youtube.svg)](https://www.youtube.com/@juliocodes)
+###  Connect with me:
+[![Instagram](./asset/Instagram-Logo.wine.svg)](https://www.instagram.com/juliocodes) [![YouTube](./assets/youtube.svg)](https://www.youtube.com/@juliocodes)
 
 
 <h3 align="left">Languages and Tools:</h3>
