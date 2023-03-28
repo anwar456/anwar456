@@ -4,13 +4,13 @@ My name is Anwar, passionate frontend web developer, i really like things relate
 especially the appearance of a website, i will share all my code on social media platforms.
 
 ### 🔗 Connect with me:
-<a href="https://instagram.com/anwar_r_r" target="blank">
+<a href="https://instagram.com/slashcode_" target="blank">
   <img align="center" src="./asset/Instagram-Logo.wine.svg" alt="anwar_r_r" height="40" width="40" />
 </a>
 <a href="https://www.youtube.com/channel/UCS0MEcAP6OeuuU6Me3y7Zfg" target="blank">
   <img align="center" src="./asset/YouTube-Icon-Full-Color-Logo.wine.svg" alt="anwar_r_r" height="40" width="50" />
 </a>
-<a href="https://www.youtube.com/channel/UCS0MEcAP6OeuuU6Me3y7Zfg" target="blank">
+<a href="https://www.tiktok.com/@slashcode_" target="blank">
   <img align="center" src="./asset/tiktok-logo-4500.svg" alt="anwar_r_r" height="30" width="40" />
 </a>
 
