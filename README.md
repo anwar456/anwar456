@@ -5,7 +5,7 @@ especially the appearance of a website, i will share all my code on social media
 
 ###  Connect with me:
 <a href="https://instagram.com/anwar_r_r" target="blank">
-  <img align="center" src="./asset/Instagram-Logo.wine.svg" alt="anwar_r_r" height="30" width="40" />
+  <img align="center" src="./asset/Instagram-Logo.wine.svg" alt="anwar_r_r" height="80" width="80" />
 </a>
 
 
