@@ -3,6 +3,9 @@
 My name is Anwar, passionate frontend web developer, i really like things related to beauty, 
 especially the appearance of a website, i will share all my code on social media platforms.
 
+#### Connect with me:
+[![Instagram](./assets/Instagram-Logo.wine.svg)](https://www.instagram.com/juliocodes) [![YouTube](./assets/youtube.svg)](https://www.youtube.com/@juliocodes)
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
